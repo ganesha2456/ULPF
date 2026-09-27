@@ -110,7 +110,7 @@ Everything from here runs **inside Ubuntu**, not PowerShell.
 ```bash
 sudo apt update && sudo apt install -y python3-venv python3-pip git zip unzip
 cd ~
-git clone https://github.com/VengefulSpartan/ULPF.git SIH26
+git clone https://github.com/ganesha2456/ULPF.git SIH26
 cd SIH26
 git log --oneline -1   # must be: "Run every check on a new machine with one command and compare machines"
 ```

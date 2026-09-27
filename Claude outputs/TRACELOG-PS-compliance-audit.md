@@ -48,7 +48,7 @@ PDF.
 
 | Deliverable | State |
 |---|---|
-| Source code link | On GitHub (`VengefulSpartan/ULPF`), two commits behind local `main`. **No LICENSE.** `Claude outputs/` (including the rejection-risks notes) is in the public history. |
+| Source code link | On GitHub (`ganesha2456/ULPF`), two commits behind local `main`. **No LICENSE.** `Claude outputs/` (including the rejection-risks notes) is in the public history. |
 | README with setup | Links to architecture, design, flow, runbook and real-log results at the top, with the diagram; the long file-by-file body is still there. |
 | Architecture document (max 2 pages) | `docs/ARCHITECTURE.md` and the slide diagram exist. **Needs a two-page PDF**: page 1 the diagram, page 2 components and measured results. |
 | Demo video (max 2 min) | **Out of date**: recorded 21 September, before the measured dashboard, real OCSF export, lossless storage, XML/CSV, real-log testing, the container and air-gap work. |
